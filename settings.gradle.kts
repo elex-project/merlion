@@ -1,2 +1,2 @@
-rootProject.name = "merlion"
+rootProject.name = "mesp"
 
