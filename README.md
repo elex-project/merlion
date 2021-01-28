@@ -1,6 +1,7 @@
-# tmpl-java-library
+# Project Merlion
 
-Template for Java library project
+Math Expression String Parser
+(forked from https://sourceforge.net/projects/expression-tree/)
 
 ---
 developed by Elex
